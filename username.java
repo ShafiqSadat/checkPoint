@@ -1,8 +1,7 @@
-package CS1;
+//package CS1;
 import java.util.Scanner;
-public class username {
+public class checkUserPass {
    public static void main(String args[]){
-       Scanner input = new Scanner(System.in);
        String username = "Shafiq";
        String password = "Shafiq123";
        checkPoint(username,password);
